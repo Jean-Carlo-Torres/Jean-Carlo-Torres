@@ -14,6 +14,6 @@ Tenho 21 anos, moro em Mogi das Cruzes - SP  sou formado em Design Gráfico e UX
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancarlotorre619b21b4/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=11910794617)
 
-![Snake animation](https://github.com/Jean-Carlo-Torres/Jean-Carlo-Torres/blog/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jean-Carlo-Torres/Jean-Carlo-Torres/blob/output/github-contribution-grid-snake.svg)
 
 
