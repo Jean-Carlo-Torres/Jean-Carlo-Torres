@@ -1,5 +1,5 @@
 ### Olá👋
-## Me Chamo Jean Carlo
+## Me Chamo Jean Carlo <img src="https://i.imgur.com/ATEHSYp.gif" width="30px"/>
 #### Sobre mim
 
 Tenho 21 anos, moro em Mogi das Cruzes - SP  sou formado em Design Gráfico e UX Design, com experiência  na área de Marketing. Estudante em CST em Análise e desenvolvimento de sistemas, atualmente cursando o 4º Semestre e buscando aprender e evoluir cada vez mais.
