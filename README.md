@@ -3,13 +3,13 @@
 <br>
 <div align="center">
    <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+   <img height="380em" src="https://camo.githubusercontent.com/edf0dfa47e3c7f58718da1da98626a2fb847c5621447aff1a4a46a1f91ef43f8/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966"/>
 </div>
 <br>
 
 ## Sobre mim
 
-Tenho 21 anos, moro em Mogi das Cruzes - SP  sou formado em Design Gráfico e UX Design, com experiência  na área de Marketing. Estudante em CST em Análise e desenvolvimento de sistemas, atualmente cursando o 4º Semestre e buscando aprender e evoluir cada vez mais.
+Tenho 21 anos, moro em Mogi das Cruzes - SP sou formado em Design Gráfico e UX Design, com experiência na area de Marketing. Estudante em CST em Análise e desenvolvimento de sistemas. Tenho como objetivo aprimorar minhas habilidades técnicas, contribuir com equipes multidisciplinares e desenvolver soluções inovadoras. Sou motivado, proativo e busco constantemente atualizações na área tecnológica.
 <br>
 
 ## 🔗 Links
@@ -38,6 +38,8 @@ Tenho 21 anos, moro em Mogi das Cruzes - SP  sou formado em Design Gráfico e UX
 
 ### 👩‍💻 &nbsp;Back-End
 
+![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
+![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
 ![Java](https://img.shields.io/badge/Java-E7ECEB?style=for-the-badge&logo=java&logoColor=007396)&nbsp;
 ![Python](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
@@ -50,7 +52,8 @@ Tenho 21 anos, moro em Mogi das Cruzes - SP  sou formado em Design Gráfico e UX
 ![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
 
 ### ⚡ &nbsp;Database 
-![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E7ECEB?style=for-the-badge&logo=postgresql&logoColor=336791)
 &nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
