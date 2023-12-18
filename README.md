@@ -57,3 +57,12 @@ Tenho 21 anos, moro em Mogi das Cruzes - SP sou formado em Design Gráfico e UX 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
+
+## Bootcamps e Certificações:
+[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
+[<img src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="50"/></a>](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos?tab=path)
+[<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>](https://web.dio.me/track/bootcamp-wex-desenvolvimento-net-e-qa)
+[<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)
+[<img src="https://hermes.dio.me/tracks/4c796cee-bef5-4048-8fbe-260527c11f45.png" height="50"/></a>](https://web.dio.me/track/bootcamp-tqi-kotlin)
+[<img src="https://hermes.dio.me/tracks/5443980d-31cb-4a9f-8dbd-065773810c04.png" height="50"/></a>](https://web.dio.me/track/orange-tech-backend)
+[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
