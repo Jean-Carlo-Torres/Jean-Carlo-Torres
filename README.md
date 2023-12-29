@@ -58,10 +58,13 @@ Tenho 21 anos, moro em Mogi das Cruzes - SP sou formado em Design Gráfico e UX 
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
 
 ## Bootcamps e Certificações:
-[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
-[<img src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="50"/></a>](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos?tab=path)
-[<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>](https://web.dio.me/track/bootcamp-wex-desenvolvimento-net-e-qa)
-[<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)
-[<img src="https://hermes.dio.me/tracks/4c796cee-bef5-4048-8fbe-260527c11f45.png" height="50"/></a>](https://web.dio.me/track/bootcamp-tqi-kotlin)
-[<img src="https://hermes.dio.me/tracks/5443980d-31cb-4a9f-8dbd-065773810c04.png" height="50"/></a>](https://web.dio.me/track/orange-tech-backend)
-[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
+[<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"></a>](https://www.dio.me/certificate/9C8A0B6D/share)
+[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://www.dio.me/certificate/F307DECB/share)
+[<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>](https://www.dio.me/certificate/851326A0)
+[<img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" height="50"/></a>](https://www.dio.me/certificate/898DFBCA)
+[<img src="https://hermes.dio.me/tracks/afebe5ed-2b18-438a-95b0-2c971e9aeff9.png" height="50"/></a>](https://www.dio.me/certificate/4BDD94C7)
+[<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="50"/></a>](https://www.dio.me/certificate/9537790D/share)
+[<img src="https://hermes.dio.me/tracks/8df7f59a-4572-4085-b6c1-f735e2dc23d9.png" height="50"/></a>](https://www.dio.me/certificate/07AA9B4C/share)
+[<img src="https://hermes.dio.me/tracks/4c796cee-bef5-4048-8fbe-260527c11f45.png" height="50"/></a>](https://www.dio.me/certificate/C44933DF/share)
+[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://www.dio.me/certificate/BD71ADE0/share)
+[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"/></a>](https://www.dio.me/certificate/537EACAF/share)
