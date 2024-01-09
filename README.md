@@ -58,6 +58,7 @@ Tenho 21 anos, moro em Mogi das Cruzes - SP sou formado em Design Gráfico e UX 
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
 
 ## Bootcamps e Certificações:
+[<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="50"></a>](https://www.udemy.com/certificate/UC-1662d29d-597e-45ae-9a38-880c7eab060c/)
 [<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"></a>](https://www.dio.me/certificate/9C8A0B6D/share)
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://www.dio.me/certificate/F307DECB/share)
 [<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"/></a>](https://www.dio.me/certificate/851326A0)
