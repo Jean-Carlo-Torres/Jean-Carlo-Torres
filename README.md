@@ -7,9 +7,15 @@
 </div>
 <br>
 
-## Sobre mim
+## 👩‍💻 Sobre mim
 
-Tenho 21 anos, moro em Mogi das Cruzes - SP sou formado em Design Gráfico e UX Design, com experiência na area de Marketing. Estudante em CST em Análise e desenvolvimento de sistemas. Tenho como objetivo aprimorar minhas habilidades técnicas, contribuir com equipes multidisciplinares e desenvolver soluções inovadoras. Sou motivado, proativo e busco constantemente atualizações na área tecnológica.
+📚 Estudante de tecnologia e desenvolvimento mobile, buscando aprimorar minhas habilidades em Kotlin, Java, .Net e ferramentas de Inteligência Artificial.
+
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas, possuo experiência como Designer Gráfico na área de Marketing, o que me permite ter uma visão holística do processo de criação de produtos digitais.
+
+💻 Sou um profissional motivado, proativo e em constante busca por atualização nas áreas de tecnologia e inovação. Tenho como objetivo contribuir para equipes multidisciplinares e desenvolver soluções inovadoras que agreguem valor aos negócios.
+
+📈 Estou sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente. Acredito que a tecnologia tem o poder de transformar o mundo e sou apaixonado por fazer parte dessa jornada.
 <br>
 
 ## 🔗 Links
@@ -35,13 +41,17 @@ Tenho 21 anos, moro em Mogi das Cruzes - SP sou formado em Design Gráfico e UX 
 ***
 ## 🛠 &nbsp;Tech Stack
 
+### 📱 &nbsp;Mobile
+
+![Android](https://img.shields.io/badge/Android-E7ECEB?style=for-the-badge&logo=android&logoColor=91C12F)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-E7ECEB?style=for-the-badge&logo=kotlin&logoColor=B567CE)&nbsp;
+
 ### 👩‍💻 &nbsp;Back-End
 
 ![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
 ![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
 ![Java](https://img.shields.io/badge/Java-E7ECEB?style=for-the-badge&logo=java&logoColor=007396)&nbsp;
 ![Python](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
 
 
