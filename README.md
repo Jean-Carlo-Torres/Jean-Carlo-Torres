@@ -2,16 +2,17 @@
 # Me Chamo Jean Carlo <img src="https://i.imgur.com/ATEHSYp.gif" width="30px"/>
 <br>
 <div align="center">
-   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-   <img height="380em" src="https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966"/>
+   
+   <!-- <img height="380em" src="https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966"/> -->
+   <img src="github_image.png">
 </div>
 <br>
 
 ## 👩‍💻 Sobre mim
 
-📚 Estudante de tecnologia e desenvolvimento mobile, buscando aprimorar minhas habilidades em Kotlin, Java, .Net e ferramentas de Inteligência Artificial.
+📚 Estudante de tecnologia e desenvolvimento de sistemas e mobile, buscando aprimorar minhas habilidades em Android com Kotlin, Java, .Net e ferramentas de Inteligência Artificial.
 
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas, possuo experiência como Designer Gráfico na área de Marketing, o que me permite ter uma visão holística do processo de criação de produtos digitais.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas, possuo experiência como Designer Gráfico na área de Marketing, o que me permite ter uma visão ampla do processo de criação de produtos digitais.
 
 💻 Sou um profissional motivado, proativo e em constante busca por atualização nas áreas de tecnologia e inovação. Tenho como objetivo contribuir para equipes multidisciplinares e desenvolver soluções inovadoras que agreguem valor aos negócios.
 
@@ -48,9 +49,9 @@
 
 ### 👩‍💻 &nbsp;Back-End
 
-![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
-![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
 ![Java](https://img.shields.io/badge/Java-E7ECEB?style=for-the-badge&logo=java&logoColor=007396)&nbsp;
+![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
+![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
 ![Python](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
 
@@ -69,6 +70,8 @@
 
 ## Bootcamps e Certificações:
 
+[<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="50"></a>](https://www.dio.me/certificate/8XPBHUOU/share)
+[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="50"></a>](https://www.dio.me/certificate/ODT5ZCDJ/share)
 [<img src="https://hermes.dio.me/tracks/22cdb398-5ca2-4420-ae76-7a7ec5078ea8.png" height="50"></a>](https://www.dio.me/certificate/P1FUHKFF/share)
 [<img src="https://hermes.dio.me/tracks/70925645-7c7e-4ab5-b6e4-236a4cfd3fa6.png" height="50"></a>](https://www.dio.me/certificate/7CDAE104/share)
 [<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="50"></a>](https://www.udemy.com/certificate/UC-1662d29d-597e-45ae-9a38-880c7eab060c/)
