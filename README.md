@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Sobre mim
 
-📚 Estudante de tecnologia e desenvolvimento de sistemas e mobile, buscando aprimorar minhas habilidades em Android com Kotlin, Java, .Net e ferramentas de Inteligência Artificial.
+📚 Estudante de tecnologia e desenvolvimento de sistemas e mobile, buscando aprimorar minhas habilidades em Android com Kotlin, Java, C# .Net e ferramentas de Inteligência Artificial.
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas, possuo experiência como Designer Gráfico na área de Marketing, o que me permite ter uma visão ampla do processo de criação de produtos digitais.
 
@@ -57,8 +57,6 @@
 
 
 ### 🎨 &nbsp;Front-end
-![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
 
 ### ⚡ &nbsp;Database 
