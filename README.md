@@ -10,9 +10,9 @@
 
 ## 👩‍💻 Sobre mim
 
-📚 Estudante de tecnologia e desenvolvimento de sistemas e mobile, buscando aprimorar minhas habilidades em Android com Kotlin, Java, C# .Net e ferramentas de Inteligência Artificial.
+📚 Estudante de tecnologia e desenvolvimento de sistemas e mobile, buscando aprimorar minhas habilidades em Android com Kotlin, Java, C# .Net, GO e ferramentas de Inteligência Artificial.
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas, possuo experiência como Designer Gráfico na área de Marketing, o que me permite ter uma visão ampla do processo de criação de produtos digitais.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas, cursando pós-graduação em Engenharia de Software, possuo experiência como Designer Gráfico na área de Marketing, o que me permite ter uma visão ampla do processo de criação de produtos digitais.
 
 💻 Sou um profissional motivado, proativo e em constante busca por atualização nas áreas de tecnologia e inovação. Tenho como objetivo contribuir para equipes multidisciplinares e desenvolver soluções inovadoras que agreguem valor aos negócios.
 
@@ -68,6 +68,7 @@
 
 ## Bootcamps e Certificações:
 
+[<img src="https://hermes.dio.me/tracks/5a199bba-a494-49ce-b357-f746eb7b7425.png" height="50"></a>](https://www.dio.me/certificate/VGSZPZXV/share)
 [<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="50"></a>](https://www.dio.me/certificate/8XPBHUOU/share)
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="50"></a>](https://www.dio.me/certificate/ODT5ZCDJ/share)
 [<img src="https://hermes.dio.me/tracks/22cdb398-5ca2-4420-ae76-7a7ec5078ea8.png" height="50"></a>](https://www.dio.me/certificate/P1FUHKFF/share)
