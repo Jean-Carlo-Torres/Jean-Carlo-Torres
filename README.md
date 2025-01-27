@@ -11,17 +11,17 @@
 
 ## 👩‍💻 Sobre mim
 
-📚 Estudante de tecnologia e desenvolvimento de sistemas e mobile, buscando aprimorar minhas habilidades em Android com Kotlin, Java, C# .Net, GO e ferramentas de Inteligência Artificial.
+💻 Atuo como Analista Desenvolvedor SAP ABAP.
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas, cursando pós-graduação em Engenharia de Software, possuo experiência como Designer Gráfico na área de Marketing, o que me permite ter uma visão ampla do processo de criação de produtos digitais.
+<!-- 📚 Estudante de tecnologia e desenvolvimento de sistemas e mobile, buscando aprimorar minhas habilidades em Android com Kotlin, Java, C# .Net, GO e ferramentas de Inteligência Artificial. -->
 
-💻 Sou um profissional motivado, proativo e em constante busca por atualização nas áreas de tecnologia e inovação. Tenho como objetivo contribuir para equipes multidisciplinares e desenvolver soluções inovadoras que agreguem valor aos negócios.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas, cursando pós-graduação em Engenharia de Software.
 
-📈 Estou sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente. Acredito que a tecnologia tem o poder de transformar o mundo e sou apaixonado por fazer parte dessa jornada.
+📈 Estou sempre buscando novos desafios para aprender e crescer profissionalmente. Acredito que a tecnologia tem o poder de transformar o mundo e sou apaixonado por fazer parte dessa jornada.
 <br>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jean-carlo-torres.github.io/portfolio/)&nbsp;
+<!--[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jean-carlo-torres.github.io/portfolio/)&nbsp; -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancarlotorre619b21b4/)&nbsp;
 <br>
 
